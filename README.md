@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL](https://your-solution-url.com)
+- Solution URL: [URL](https://www.frontendmentor.io/solutions/landing-page-with-css-and-javascript-NMctTAyTY)
 - Live Site URL: [URL](https://cranky-khorana-8adc33.netlify.app/)
 
 ## My process
