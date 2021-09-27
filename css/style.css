@@ -188,8 +188,9 @@ a {
   top: 100%;
   left: 0%;
   right: 0%;
-  margin-inline: 1rem;
+  margin-inline: var(--spacer-main);
   padding: var(--spacer-big);
+  padding-bottom: var(--spacer-xl);
   text-align: center;
   font-size: 1.2rem;
   color: var(--neutral-dark-g-blue);
